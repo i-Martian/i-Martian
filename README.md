@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @i-Martian
 - 👀 I’m interested in designing and developing web and mobile apps
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Software Engineering 
 - 💞️ I’m looking to collaborate on web integration services
 - 📫 How to reach me @i-Martian for placeholder
 
